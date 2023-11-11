@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Redirect watch url to embed url.
 // @author       karakufire
-// @match        https://www.youtube.com/*
+// @match        *://*.youtube.com/*
 // @run-at       document-start
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // ==/UserScript==
